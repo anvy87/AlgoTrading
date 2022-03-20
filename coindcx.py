@@ -4,8 +4,6 @@ Created on Wed Oct 21 21:47:00 2020
 
 @author: home
 """
-
-
 import requests # Install requests module first.
 import hmac
 import hashlib
